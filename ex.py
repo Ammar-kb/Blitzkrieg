@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 import webbrowser
-import os
+import os    
 import pandas as pd
 import numpy as np
 import wikipedia
